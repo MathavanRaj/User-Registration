@@ -1,0 +1,18 @@
+.container{
+    max-width: 400px;
+    margin-left: 35%;
+    margin-top: 10%;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: transparent;
+    border-radius: 10px;
+}
+
+body{
+    background-image: url('User.jpg');
+}
+
+label{
+    font-weight: bold;
+}
+
